@@ -12,3 +12,5 @@
 ## Google Maps
 
 * How to add google maps to your app
+* Add markers
+* Add on tap
